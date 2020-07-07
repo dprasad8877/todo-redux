@@ -1,0 +1,35 @@
+table.todo-table {
+  width: 100%;
+}
+.search-col input {
+  width: 100%;
+}
+button {
+  border: none;
+  color: white;
+}
+button.edit-btn {
+  background-color: blue;
+  margin-right: 8px;
+  border-radius: 5px;
+
+}
+button.delete-btn {
+  background-color: red;
+  margin-right: 8px;  border-radius: 5px;
+
+
+}
+button.state-btn-done {
+  width: 80px;
+  background-color: green;
+  margin-right: 8px;  border-radius: 5px;
+
+}
+button.state-btn-pending {
+  width: 80px;
+
+  background-color: blue;
+  margin-right: 8px;
+  border-radius: 5px;
+}
